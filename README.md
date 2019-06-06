@@ -6,3 +6,5 @@
 #PublishedDate Date & time
 #Body RichText
 
+#Need to hook up to contentful API key in env variable to be able to run.
+
